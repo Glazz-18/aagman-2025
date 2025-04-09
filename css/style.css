@@ -629,6 +629,7 @@ ol {
 
 .schedule-section {
 	padding-bottom: 60px;
+	
 }
 
 .schedule-tab .nav-tabs {
@@ -638,11 +639,12 @@ ol {
 	margin-bottom: 60px;
 	-webkit-box-shadow: 3px 10px 30px rgba(74, 74, 77, 0.15);
 	box-shadow: 3px 10px 30px rgba(74, 74, 77, 0.15);
+	justify-content: space-between;
 }
 
 .schedule-tab .nav-tabs .nav-item {
 	border-right: 1px solid #e7e7e8;
-	width: 50%;
+	width: 30%;
 	text-align: center;
 }
 
@@ -651,7 +653,8 @@ ol {
 }
 
 .schedule-tab .nav-tabs .nav-item .nav-link {
-	padding: 14px 0 13px 0;
+	
+	padding: 14px 0 11px 0;
 	border: none;
 	border-top-left-radius: 0;
 	border-top-right-radius: 0;
