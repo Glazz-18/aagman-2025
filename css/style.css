@@ -58,6 +58,7 @@ h1 {
 
 h2 {
 	font-size: 36px;
+
 }
 
 h3 {
@@ -172,7 +173,7 @@ ol {
 .schedule-tab .nav-tabs .nav-item .nav-link.active,
 .site-btn {
 	background-image: -o-linear-gradient(330deg, #010352 0%, #03a3ff 100%), -o-linear-gradient(330deg, #010352 0%, #03a3ff 100%);
-	background-image: linear-gradient(120deg, #010352 0%, #03a3ff 100%), linear-gradient(120deg, #010352 0%, #03a3ff 100%);
+	background-image: linear-gradient(120deg, #ffbf76 0%, #fff6eb 100%), linear-gradient(120deg, #010352 0%, #03a3ff 100%);
 }
 
 /* buttons */
@@ -188,7 +189,7 @@ ol {
 	margin-bottom: 10px;
 	background-image: -webkit-gradient(linear, left top, right top, from(#010352), to(#03a3ff)), -webkit-gradient(linear, left top, right top, from(#010352), to(#03a3ff));
 	background-image: -o-linear-gradient(left,#010352 0%, #03a3ff 100%), -o-linear-gradient(left, #010352 0%, #03a3ff 100%);
-	background-image: linear-gradient(to right, #010352 0%, #03a3ff 100%), linear-gradient(to right, #010352 0%, #03a3ff 100%);
+	background-image: linear-gradient(to right, #ff7300 0%, #ffae00 100%), linear-gradient(to right, #010352 0%, #03a3ff 100%);
 }
 
 .site-btn {
@@ -294,6 +295,7 @@ ol {
 
 .nav-menu .mainmenu {
 	display: inline-block;
+	margin-top: 25px;
 }
 
 .nav-menu .mainmenu ul li {
@@ -401,19 +403,21 @@ ol {
 
 .hero-section .hero-text span {
 	font-size: 16px;
-	color: #009cf7;
+	color: #ffc596;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: bold;
+	
 }
 
 .hero-section .hero-text h2 {
 	font-size: 60px;
 	color: #ffffff;
 	line-height: 72px;
-	font-weight: 600;
+	font-weight: 700;
 	margin-top: 24px;
 	margin-bottom: 30px;
+	text-transform: uppercase;
 	
 }
 
