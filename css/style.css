@@ -515,9 +515,17 @@ ol {
 	font-weight: 700;
 	margin-bottom: 32px;
 }
+.ha-text h5{
+	color: #171822;
+	font-weight: bold;
+	margin-bottom:21px;
+}
 
 .ha-text p {
 	margin-bottom: 21px;
+}
+.ha-text bullet-point li{
+	list-style-type: disc;
 }
 
 .ha-text ul {
@@ -550,6 +558,20 @@ ol {
 	width: 100%;
 	background: #03a3ff;
 	content: "";
+}
+
+.ha-text .Subhead2 ul li{
+	list-style-type: circle;
+	margin-left: 30px;
+	margin-bottom: 10px; 
+	color: #6a6b7c
+}
+
+.ha-text .Subhead3 ul li{
+	list-style-type: circle;
+	margin-left: 30px;
+	margin-bottom: 10px; 
+	color: #6a6b7c
 }
 
 /*---------------------
